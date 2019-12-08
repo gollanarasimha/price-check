@@ -1,4 +1,4 @@
-# amazon-price-checker
+# price-check
  type node parser "url of the website" "minimum price"
  
  
